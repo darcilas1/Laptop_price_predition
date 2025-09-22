@@ -1,5 +1,11 @@
 # 💻 Predicción de Precios de Laptops con Machine Learning
 
+
+##  Autores
+- **Martin Vanegas**
+- **Lucas Higuita**
+- **Daniel Arcila**
+
 ## 📌 Descripción
 Este proyecto implementa un modelo de **Machine Learning supervisado** para **predecir el precio en euros de laptops** a partir de sus características técnicas.  
 Se siguió un flujo completo de ciencia de datos: **análisis exploratorio (EDA), limpieza y procesamiento de datos, entrenamiento de modelos, comparación de resultados y prueba con muestras artificiales**.
